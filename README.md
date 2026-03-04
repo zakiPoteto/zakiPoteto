@@ -8,5 +8,5 @@
 />
 <img
   alt="Top Langs"
-  src="https://github-readme-stats-ecru-alpha-44.vercel.app/api/top-langs?username=zakiPoteto&layout=compact&langs_count=8&count_private=true&include_forks=true&theme=tokyonight&hide=Shell&cache_seconds=86400"
+  src="https://github-readme-stats-ecru-alpha-44.vercel.app/api/top-langs?username=zakiPoteto&layout=compact&langs_count=8&count_private=true&include_forks=true&theme=tokyonight&hide=Shell&cache_seconds=86400&v=2&exclude_repo=github-readme-stats"
 />
