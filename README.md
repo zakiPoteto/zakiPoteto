@@ -1,5 +1,6 @@
 ## Welcome to zakiPoteto's profile
 - スマホアプリ(flutter)メインでやってます
+- goなどバックエンド勉強中
 - 色々興味あります
 
 <img
