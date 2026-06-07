@@ -3,7 +3,6 @@
 - Flutter (Dart) をメインに2年以上開発中
 - Go などバックエンドも勉強中
 - ハッカソン受賞2件（KDDI アジャイル賞・優秀賞）
-- チームラボ株式会社 サマーインターン（10日間）
 - Portfolio: https://project-07kun.vercel.app
 
 <img
