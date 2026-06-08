@@ -2,8 +2,8 @@
 
 - Flutter (Dart) をメインに2年以上開発中
 - Go などバックエンドも勉強中
-- ハッカソン受賞2件（KDDI アジャイル賞・優秀賞）
-- Portfolio: https://project-07kun.vercel.app
+- ハッカソン受賞2件
+- [ポートフォリオサイト](https://www.zaki-potato.dev)
 
 <img
   alt="zakiPoteto's GitHub Stats"
