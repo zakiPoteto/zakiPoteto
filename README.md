@@ -22,11 +22,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-ecru-alpha-44.vercel.app/api/top-langs?username=zakiPoteto&layout=compact&langs_count=12&count_private=true&include_forks=true&theme=tokyonight&hide=Shell,CMake&cache_seconds=1800&v=2&exclude_repo=github-readme-stats,team-b-internship2026"
+    srcset="https://github-readme-stats-ecru-alpha-44.vercel.app/api/top-langs?username=zakiPoteto&layout=compact&langs_count=12&count_private=true&include_forks=true&theme=tokyonight&hide=Shell%2CCMake&cache_seconds=1800&v=2&exclude_repo=github-readme-stats%2Cteam-b-internship2026"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-ecru-alpha-44.vercel.app/api/top-langs?username=zakiPoteto&layout=compact&langs_count=12&count_private=true&include_forks=true&theme=default&hide=Shell,CMake&cache_seconds=1800&v=2&exclude_repo=github-readme-stats,team-b-internship2026"
+    srcset="https://github-readme-stats-ecru-alpha-44.vercel.app/api/top-langs?username=zakiPoteto&layout=compact&langs_count=12&count_private=true&include_forks=true&theme=default&hide=Shell%2CCMake&cache_seconds=1800&v=2&exclude_repo=github-readme-stats%2Cteam-b-internship2026"
   />
   <img
     alt="Top Langs"
